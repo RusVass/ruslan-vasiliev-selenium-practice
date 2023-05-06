@@ -1,6 +1,6 @@
 package org.brit.lesson19.MyAlert;
 
-import org.brit.lesson18_19_20_21.SeleniumLib;
+import org.brit.Brit.Lesson18_19_20_21.SeleniumLib;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterSuite;

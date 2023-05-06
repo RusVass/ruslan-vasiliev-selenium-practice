@@ -1,12 +1,13 @@
-package org.brit.lesson18_19_20_21;
+package org.brit.Brit.Lesson18_19_20_21;
 
-import org.junit.Assert;
-import org.junit.Test;
+
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.Assert;
+import org.testng.annotations.Test;
 
 public class BadAlertTestR {
     @Test

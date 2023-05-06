@@ -1,4 +1,4 @@
-package org.brit.lesson18_19_20_21;
+package org.brit.Brit.Lesson18_19_20_21;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;

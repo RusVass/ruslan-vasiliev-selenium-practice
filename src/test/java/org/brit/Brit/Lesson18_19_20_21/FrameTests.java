@@ -1,4 +1,4 @@
-package org.brit.lesson18_19_20_21;
+package org.brit.Brit.Lesson18_19_20_21;
 
 import org.openqa.selenium.By;
 import org.testng.Assert;
@@ -14,6 +14,7 @@ public class FrameTests extends BaseTestClass {
     public void frameTest() throws InterruptedException {
         String frameName = "frame-middle";
         String frameName1 = "frame-bottom";
+
         Thread.sleep(2000);
         driver.switchTo()
                 .frame("frame-top")

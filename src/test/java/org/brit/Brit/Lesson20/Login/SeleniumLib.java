@@ -1,5 +1,6 @@
-package org.brit.Brit.Lesson18_19_20_21;
+package org.brit.Brit.Lesson20.Login;
 
+import org.brit.Brit.Lesson18_19_20_21.MyButtons;
 import org.openqa.selenium.*;
 
 public class SeleniumLib {

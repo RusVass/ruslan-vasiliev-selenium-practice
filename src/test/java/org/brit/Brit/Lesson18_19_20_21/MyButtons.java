@@ -1,4 +1,4 @@
-package org.brit.lesson18_19_20_21;
+package org.brit.Brit.Lesson18_19_20_21;
 
 public enum MyButtons {
     ALERT("Click for JS Alert"),

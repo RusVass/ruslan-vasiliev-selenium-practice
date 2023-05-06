@@ -1,4 +1,5 @@
-package org.brit.Brit.Lesson18_19_20_21;
+package org.brit.Brit.Lesson20.Login;
+
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

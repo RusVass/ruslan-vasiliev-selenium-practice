@@ -1,6 +1,6 @@
-package org.brit.lesson19.MyAlert;
+package org.brit.Brit.Lesson20.Login;
 
-import org.brit.Brit.Lesson18_19_20_21.SeleniumLib;
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterSuite;
@@ -8,7 +8,7 @@ import org.testng.annotations.BeforeSuite;
 
 public class MyBaseTestClass {
     protected WebDriver driver;
-   protected SeleniumLib seleniumLib;
+    protected SeleniumLib seleniumLib;
 
     @BeforeSuite
     public void beforeSuite() {
