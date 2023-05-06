@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class BedAlertTestR {
+public class BadAlertTestR {
     @Test
     public void  clickJSAlert(){
 //  відкриває Chrome + на весь екран + по ссилці
